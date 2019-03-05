@@ -1,0 +1,3 @@
+appstore/data/*.csv
+usedcars/data/*.csv
+*-checkpoint.ipynb
